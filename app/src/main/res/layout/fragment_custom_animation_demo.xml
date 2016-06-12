@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
-    <com.ankushtech.nvdwpager.CircleIndicator
+    <com.tknuk.cardnavigation.CircleIndicator
         android:id="@id/indicator"
         android:layout_gravity="bottom"
         android:layout_width="match_parent"
@@ -21,6 +21,5 @@
         app:ci_animator="@animator/indicator_animator"
         app:ci_animator_reverse="@animator/indicator_animator_reverse"
         app:ci_drawable="@drawable/black_radius_square"/>
-
 
 </FrameLayout>
