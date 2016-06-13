@@ -4,6 +4,8 @@
 - [ongakuer CircleIndicator][1] used.
 - Introduced Cardview inside the CircleIndicator viewpager.
 
+For demo **Play Store** - <a href="https://play.google.com/store/apps/details?id=com.tknuk.cardnavigation">Navigation with Indicator</a>
+
 Screenshots: 
 -----
 ![Screenshot](nvdwpager_1.png)
